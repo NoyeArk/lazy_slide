@@ -9,7 +9,6 @@ from metric import AUC
 from tqdm import tqdm
 from torch.utils.data import TensorDataset, DataLoader
 
-
 class BaseModel(nn.Module):
     """Base Model Class, parent class for all models.
 
