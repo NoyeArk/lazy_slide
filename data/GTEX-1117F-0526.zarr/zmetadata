@@ -1,0 +1,247 @@
+{
+    "metadata": {
+        ".zattrs": {
+            "slide_properties": {
+                "bounds": [
+                    0,
+                    0,
+                    19919,
+                    19958
+                ],
+                "level_downsample": [
+                    1.0,
+                    4.000501706284455,
+                    8.002609074152414
+                ],
+                "level_shape": [
+                    [
+                        19958,
+                        19919
+                    ],
+                    [
+                        4989,
+                        4979
+                    ],
+                    [
+                        2494,
+                        2489
+                    ]
+                ],
+                "magnification": 20.0,
+                "mpp": 0.4942,
+                "n_level": 3,
+                "raw": "{\"aperio.AppMag\": \"20\", \"aperio.DSR ID\": \"vaiaperio03\", \"aperio.Date\": \"05/08/13\", \"aperio.DisplayColor\": \"0\", \"aperio.Exposure Scale\": \"0.000001\", \"aperio.Exposure Time\": \"109\", \"aperio.Filename\": \"2063440\", \"aperio.Focus Offset\": \"-0.000500\", \"aperio.ICC Profile\": \"ScanScope v1\", \"aperio.ImageID\": \"46695\", \"aperio.Left\": \"18.570766\", \"aperio.LineAreaXOffset\": \"0.023001\", \"aperio.LineAreaYOffset\": \"-0.006920\", \"aperio.LineCameraSkew\": \"0.001659\", \"aperio.MPP\": \"0.4942\", \"aperio.OriginalHeight\": \"20058\", \"aperio.OriginalWidth\": \"20320\", \"aperio.ScanScope ID\": \"SS1553\", \"aperio.StripeWidth\": \"2032\", \"aperio.Time\": \"10:36:40\", \"aperio.Time Zone\": \"GMT-04:00\", \"aperio.Top\": \"14.799458\", \"aperio.User\": \"b10ddf97-9ed8-4e11-909e-3825a7cfa9e2\", \"openslide.associated.macro.height\": \"629\", \"openslide.associated.macro.width\": \"1600\", \"openslide.associated.thumbnail.height\": \"768\", \"openslide.associated.thumbnail.width\": \"766\", \"openslide.comment\": \"Aperio Image Library v12.0.11 \\r\\n20320x20058 [0,100 19919x19958] (240x240) JPEG/RGB Q=70|AppMag = 20|StripeWidth = 2032|ScanScope ID = SS1553|Filename = 2063440|Date = 05/08/13|Time = 10:36:40|Time Zone = GMT-04:00|User = b10ddf97-9ed8-4e11-909e-3825a7cfa9e2|MPP = 0.4942|Left = 18.570766|Top = 14.799458|LineCameraSkew = 0.001659|LineAreaXOffset = 0.023001|LineAreaYOffset = -0.006920|Focus Offset = -0.000500|DSR ID = vaiaperio03|ImageID = 46695|Exposure Time = 109|Exposure Scale = 0.000001|DisplayColor = 0|OriginalWidth = 20320|OriginalHeight = 20058|ICC Profile = ScanScope v1\", \"openslide.icc-size\": \"141992\", \"openslide.level-count\": \"3\", \"openslide.level[0].downsample\": \"1\", \"openslide.level[0].height\": \"19958\", \"openslide.level[0].tile-height\": \"240\", \"openslide.level[0].tile-width\": \"240\", \"openslide.level[0].width\": \"19919\", \"openslide.level[1].downsample\": \"4.0005017062844548\", \"openslide.level[1].height\": \"4989\", \"openslide.level[1].tile-height\": \"240\", \"openslide.level[1].tile-width\": \"240\", \"openslide.level[1].width\": \"4979\", \"openslide.level[2].downsample\": \"8.0026090741524136\", \"openslide.level[2].height\": \"2494\", \"openslide.level[2].tile-height\": \"240\", \"openslide.level[2].tile-width\": \"240\", \"openslide.level[2].width\": \"2489\", \"openslide.mpp-x\": \"0.49419999999999997\", \"openslide.mpp-y\": \"0.49419999999999997\", \"openslide.objective-power\": \"20\", \"openslide.quickhash-1\": \"a9878093d22ff05280abdafe63e643535f2e81edc3cf45914b39944631a0a3f2\", \"openslide.vendor\": \"aperio\", \"tiff.ImageDescription\": \"Aperio Image Library v12.0.11 \\r\\n20320x20058 [0,100 19919x19958] (240x240) JPEG/RGB Q=70|AppMag = 20|StripeWidth = 2032|ScanScope ID = SS1553|Filename = 2063440|Date = 05/08/13|Time = 10:36:40|Time Zone = GMT-04:00|User = b10ddf97-9ed8-4e11-909e-3825a7cfa9e2|MPP = 0.4942|Left = 18.570766|Top = 14.799458|LineCameraSkew = 0.001659|LineAreaXOffset = 0.023001|LineAreaYOffset = -0.006920|Focus Offset = -0.000500|DSR ID = vaiaperio03|ImageID = 46695|Exposure Time = 109|Exposure Scale = 0.000001|DisplayColor = 0|OriginalWidth = 20320|OriginalHeight = 20058|ICC Profile = ScanScope v1\", \"tiff.ResolutionUnit\": \"inch\", \"AppMag\": \"20\", \"DSR ID\": \"vaiaperio03\", \"Date\": \"05/08/13\", \"DisplayColor\": \"0\", \"Exposure Scale\": \"0.000001\", \"Exposure Time\": \"109\", \"Filename\": \"2063440\", \"Focus Offset\": \"-0.000500\", \"ICC Profile\": \"ScanScope v1\", \"ImageID\": \"46695\", \"Left\": \"18.570766\", \"LineAreaXOffset\": \"0.023001\", \"LineAreaYOffset\": \"-0.006920\", \"LineCameraSkew\": \"0.001659\", \"MPP\": \"0.4942\", \"OriginalHeight\": \"20058\", \"OriginalWidth\": \"20320\", \"ScanScope ID\": \"SS1553\", \"StripeWidth\": \"2032\", \"Time\": \"10:36:40\", \"Time Zone\": \"GMT-04:00\", \"Top\": \"14.799458\", \"User\": \"b10ddf97-9ed8-4e11-909e-3825a7cfa9e2\", \"associated.macro.height\": \"629\", \"associated.macro.width\": \"1600\", \"associated.thumbnail.height\": \"768\", \"associated.thumbnail.width\": \"766\", \"comment\": \"Aperio Image Library v12.0.11 \\r\\n20320x20058 [0,100 19919x19958] (240x240) JPEG/RGB Q=70|AppMag = 20|StripeWidth = 2032|ScanScope ID = SS1553|Filename = 2063440|Date = 05/08/13|Time = 10:36:40|Time Zone = GMT-04:00|User = b10ddf97-9ed8-4e11-909e-3825a7cfa9e2|MPP = 0.4942|Left = 18.570766|Top = 14.799458|LineCameraSkew = 0.001659|LineAreaXOffset = 0.023001|LineAreaYOffset = -0.006920|Focus Offset = -0.000500|DSR ID = vaiaperio03|ImageID = 46695|Exposure Time = 109|Exposure Scale = 0.000001|DisplayColor = 0|OriginalWidth = 20320|OriginalHeight = 20058|ICC Profile = ScanScope v1\", \"icc-size\": \"141992\", \"level-count\": \"3\", \"level[0].downsample\": \"1\", \"level[0].height\": \"19958\", \"level[0].tile-height\": \"240\", \"level[0].tile-width\": \"240\", \"level[0].width\": \"19919\", \"level[1].downsample\": \"4.0005017062844548\", \"level[1].height\": \"4989\", \"level[1].tile-height\": \"240\", \"level[1].tile-width\": \"240\", \"level[1].width\": \"4979\", \"level[2].downsample\": \"8.0026090741524136\", \"level[2].height\": \"2494\", \"level[2].tile-height\": \"240\", \"level[2].tile-width\": \"240\", \"level[2].width\": \"2489\", \"mpp-x\": \"0.49419999999999997\", \"mpp-y\": \"0.49419999999999997\", \"objective-power\": \"20\", \"quickhash-1\": \"a9878093d22ff05280abdafe63e643535f2e81edc3cf45914b39944631a0a3f2\", \"vendor\": \"aperio\", \"ImageDescription\": \"Aperio Image Library v12.0.11 \\r\\n20320x20058 [0,100 19919x19958] (240x240) JPEG/RGB Q=70|AppMag = 20|StripeWidth = 2032|ScanScope ID = SS1553|Filename = 2063440|Date = 05/08/13|Time = 10:36:40|Time Zone = GMT-04:00|User = b10ddf97-9ed8-4e11-909e-3825a7cfa9e2|MPP = 0.4942|Left = 18.570766|Top = 14.799458|LineCameraSkew = 0.001659|LineAreaXOffset = 0.023001|LineAreaYOffset = -0.006920|Focus Offset = -0.000500|DSR ID = vaiaperio03|ImageID = 46695|Exposure Time = 109|Exposure Scale = 0.000001|DisplayColor = 0|OriginalWidth = 20320|OriginalHeight = 20058|ICC Profile = ScanScope v1\", \"ResolutionUnit\": \"inch\"}",
+                "shape": [
+                    19958,
+                    19919
+                ]
+            },
+            "spatialdata_attrs": {
+                "spatialdata_software_version": "0.5.0",
+                "version": "0.1"
+            }
+        },
+        ".zgroup": {
+            "zarr_format": 2
+        },
+        "images/.zgroup": {
+            "zarr_format": 2
+        },
+        "images/wsi_thumbnail/.zattrs": {
+            "multiscales": [
+                {
+                    "axes": [
+                        {
+                            "name": "c",
+                            "type": "channel"
+                        },
+                        {
+                            "name": "y",
+                            "type": "space"
+                        },
+                        {
+                            "name": "x",
+                            "type": "space"
+                        }
+                    ],
+                    "coordinateTransformations": [
+                        {
+                            "input": {
+                                "axes": [
+                                    {
+                                        "name": "c",
+                                        "type": "channel"
+                                    },
+                                    {
+                                        "name": "y",
+                                        "type": "space",
+                                        "unit": "unit"
+                                    },
+                                    {
+                                        "name": "x",
+                                        "type": "space",
+                                        "unit": "unit"
+                                    }
+                                ],
+                                "name": "cyx"
+                            },
+                            "output": {
+                                "axes": [
+                                    {
+                                        "name": "c",
+                                        "type": "channel"
+                                    },
+                                    {
+                                        "name": "y",
+                                        "type": "space",
+                                        "unit": "unit"
+                                    },
+                                    {
+                                        "name": "x",
+                                        "type": "space",
+                                        "unit": "unit"
+                                    }
+                                ],
+                                "name": "global"
+                            },
+                            "scale": [
+                                1.0,
+                                9.999497991967871,
+                                9.998997995991983
+                            ],
+                            "type": "scale"
+                        }
+                    ],
+                    "datasets": [
+                        {
+                            "coordinateTransformations": [
+                                {
+                                    "scale": [
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "type": "scale"
+                                }
+                            ],
+                            "path": "0"
+                        }
+                    ],
+                    "metadata": {
+                        "omero": {
+                            "channels": [
+                                {
+                                    "label": 0
+                                },
+                                {
+                                    "label": 1
+                                },
+                                {
+                                    "label": 2
+                                }
+                            ]
+                        }
+                    },
+                    "name": "/images/wsi_thumbnail",
+                    "version": "0.4-dev-spatialdata"
+                }
+            ],
+            "omero": {
+                "channels": [
+                    {
+                        "label": 0
+                    },
+                    {
+                        "label": 1
+                    },
+                    {
+                        "label": 2
+                    }
+                ]
+            },
+            "spatialdata_attrs": {
+                "version": "0.2"
+            }
+        },
+        "images/wsi_thumbnail/.zgroup": {
+            "zarr_format": 2
+        },
+        "images/wsi_thumbnail/0/.zarray": {
+            "chunks": [
+                3,
+                1996,
+                1992
+            ],
+            "compressor": {
+                "blocksize": 0,
+                "clevel": 5,
+                "cname": "lz4",
+                "id": "blosc",
+                "shuffle": 1
+            },
+            "dimension_separator": "/",
+            "dtype": "|u1",
+            "fill_value": 0,
+            "filters": null,
+            "order": "C",
+            "shape": [
+                3,
+                1996,
+                1992
+            ],
+            "zarr_format": 2
+        },
+        "shapes/.zgroup": {
+            "zarr_format": 2
+        },
+        "shapes/tissues/.zattrs": {
+            "axes": [
+                "x",
+                "y"
+            ],
+            "coordinateTransformations": [
+                {
+                    "input": {
+                        "axes": [
+                            {
+                                "name": "x",
+                                "type": "space",
+                                "unit": "unit"
+                            },
+                            {
+                                "name": "y",
+                                "type": "space",
+                                "unit": "unit"
+                            }
+                        ],
+                        "name": "xy"
+                    },
+                    "output": {
+                        "axes": [
+                            {
+                                "name": "x",
+                                "type": "space",
+                                "unit": "unit"
+                            },
+                            {
+                                "name": "y",
+                                "type": "space",
+                                "unit": "unit"
+                            }
+                        ],
+                        "name": "global"
+                    },
+                    "type": "identity"
+                }
+            ],
+            "encoding-type": "ngff:shapes",
+            "spatialdata_attrs": {
+                "version": "0.2"
+            }
+        },
+        "shapes/tissues/.zgroup": {
+            "zarr_format": 2
+        }
+    },
+    "zarr_consolidated_format": 1
+}
